@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-centering-home/static/js/main.dc732cea.chunk.js",
+    "main.js.map": "/react-centering-home/static/js/main.dc732cea.chunk.js.map",
+    "runtime-main.js": "/react-centering-home/static/js/runtime-main.f196e2e0.js",
+    "runtime-main.js.map": "/react-centering-home/static/js/runtime-main.f196e2e0.js.map",
+    "static/js/2.9ed8277b.chunk.js": "/react-centering-home/static/js/2.9ed8277b.chunk.js",
+    "static/js/2.9ed8277b.chunk.js.map": "/react-centering-home/static/js/2.9ed8277b.chunk.js.map",
+    "static/js/3.d1ab355c.chunk.js": "/react-centering-home/static/js/3.d1ab355c.chunk.js",
+    "static/js/3.d1ab355c.chunk.js.map": "/react-centering-home/static/js/3.d1ab355c.chunk.js.map",
+    "index.html": "/react-centering-home/index.html",
+    "static/js/2.9ed8277b.chunk.js.LICENSE.txt": "/react-centering-home/static/js/2.9ed8277b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f196e2e0.js",
+    "static/js/2.9ed8277b.chunk.js",
+    "static/js/main.dc732cea.chunk.js"
+  ]
+}
