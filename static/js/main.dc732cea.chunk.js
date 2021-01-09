@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-centering-home"]=this["webpackJsonpreact-centering-home"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(0),r=n(1),i=n.n(r),o=n(3),s=function(){return Object(c.jsx)(c.Fragment,{})},a=function(e){e&&e instanceof Function&&n.e(3).then(n.bind(null,10)).then((function(t){var n=t.getCLS,c=t.getFID,r=t.getFCP,i=t.getLCP,o=t.getTTFB;n(e),c(e),r(e),i(e),o(e)}))};n.n(o).a.render(Object(c.jsx)(i.a.StrictMode,{children:Object(c.jsx)(s,{})}),document.getElementById("root")),a()}},[[9,1,2]]]);
-//# sourceMappingURL=main.dc732cea.chunk.js.map
