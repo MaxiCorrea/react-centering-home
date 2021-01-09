@@ -9,5 +9,10 @@ export const useButtonStyles = createUseStyles({
     color : "#fff",
     textTransform : "uppercase",
     textDecoration : "none",
+    border : ".1rem solid transparent",
+    padding : "1.2rem 2.6rem",
+    margin : ".3rem",
+    borderRadius : "2rem",
+    cursor : "pointer",
   },
 });
